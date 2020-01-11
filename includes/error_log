@@ -1,0 +1,85 @@
+[10-Jan-2020 11:12:55 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 74
+[10-Jan-2020 11:12:55 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 74
+[10-Jan-2020 11:12:55 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/login.php on line 74
+[10-Jan-2020 11:13:16 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 74
+[10-Jan-2020 11:13:16 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 74
+[10-Jan-2020 11:13:16 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/login.php on line 74
+[10-Jan-2020 11:29:47 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:29:47 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:29:47 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:33:38 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:33:38 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:33:38 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:35:03 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:35:03 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:35:03 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:38:34 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:38:34 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:38:34 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:38:37 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:38:37 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:38:37 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:40:02 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:40:02 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:40:02 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/login.php on line 8
+[10-Jan-2020 11:40:21 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 9
+[10-Jan-2020 11:40:21 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 9
+[10-Jan-2020 11:40:21 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/login.php on line 9
+[10-Jan-2020 11:40:39 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 9
+[10-Jan-2020 11:40:39 Etc/GMT] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/login.php on line 9
+[10-Jan-2020 11:40:39 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/login.php on line 9
+[10-Jan-2020 11:41:22 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 23
+[10-Jan-2020 11:41:25 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 23
+[10-Jan-2020 11:42:00 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 24
+[10-Jan-2020 11:42:26 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 23
+[10-Jan-2020 11:42:26 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 24
+[10-Jan-2020 11:42:54 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 23
+[10-Jan-2020 11:43:06 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:43:06 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 23
+[10-Jan-2020 11:43:17 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:43:17 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 23
+[10-Jan-2020 11:46:08 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 20
+[10-Jan-2020 11:46:08 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 22
+[10-Jan-2020 11:46:08 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 24
+[10-Jan-2020 11:46:19 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 20
+[10-Jan-2020 11:46:19 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 22
+[10-Jan-2020 11:46:19 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 24
+[10-Jan-2020 11:47:27 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 18
+[10-Jan-2020 11:47:27 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 20
+[10-Jan-2020 11:47:27 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:47:27 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:47:27 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 22
+[10-Jan-2020 11:47:27 Etc/GMT] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/arpitpat/public_html/ourvenues/includes/login.php on line 23
+[10-Jan-2020 11:47:48 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 18
+[10-Jan-2020 11:47:48 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 20
+[10-Jan-2020 11:47:48 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:47:48 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:47:48 Etc/GMT] PHP Notice:  Undefined variable: uid in /home/arpitpat/public_html/ourvenues/includes/login.php on line 22
+[10-Jan-2020 11:47:48 Etc/GMT] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/arpitpat/public_html/ourvenues/includes/login.php on line 23
+[10-Jan-2020 11:49:09 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/arpitpat/public_html/ourvenues/includes/login.php on line 19
+[10-Jan-2020 11:49:09 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/arpitpat/public_html/ourvenues/includes/login.php on line 19
+[10-Jan-2020 11:49:09 Etc/GMT] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/arpitpat/public_html/ourvenues/includes/login.php on line 20
+[10-Jan-2020 11:49:40 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:50:14 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:50:17 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:52:21 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:52:24 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 11:53:05 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 22
+[10-Jan-2020 11:53:20 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$fetch_assoc in /home/arpitpat/public_html/ourvenues/includes/login.php on line 21
+[10-Jan-2020 12:08:03 Etc/GMT] PHP Warning:  require(config.inc.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:08:03 Etc/GMT] PHP Warning:  require(config.inc.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:08:03 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:08:45 Etc/GMT] PHP Warning:  require(config.inc.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:08:45 Etc/GMT] PHP Warning:  require(config.inc.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:08:45 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:09:20 Etc/GMT] PHP Warning:  require(config.inc.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:09:20 Etc/GMT] PHP Warning:  require(config.inc.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:09:20 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:10:00 Etc/GMT] PHP Warning:  require(config.inc.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:10:00 Etc/GMT] PHP Warning:  require(config.inc.php): failed to open stream: No such file or directory in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:10:00 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'config.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 3
+[10-Jan-2020 12:10:16 Etc/GMT] PHP Notice:  Undefined index: email in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 8
+[10-Jan-2020 12:12:20 Etc/GMT] PHP Notice:  Undefined variable: email in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 11
+[10-Jan-2020 12:13:33 Etc/GMT] PHP Notice:  Undefined variable: email in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 11
+[10-Jan-2020 12:13:33 Etc/GMT] PHP Notice:  Undefined variable: email in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 41
+[10-Jan-2020 12:15:04 Etc/GMT] PHP Notice:  Undefined variable: email in /home/arpitpat/public_html/ourvenues/includes/signup.php on line 11
